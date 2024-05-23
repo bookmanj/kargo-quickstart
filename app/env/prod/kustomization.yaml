@@ -8,5 +8,4 @@ namespace: guestbook-simple-prod
 
 images:
 - name: ghcr.io/bookmanj/guestbook
-  newName: ghcr.io/bookmanj/guestbook
   newTag: v0.0.1
